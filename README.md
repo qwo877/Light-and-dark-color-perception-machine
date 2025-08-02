@@ -1,6 +1,5 @@
 # Light-and-dark-color-perception-machine
-Light and dark color perception machine
-Please download for the program to work properly:
+Please install the required libraries for the light and dark color perception machine to work properly:
 
 #pip install opencv-python
 
